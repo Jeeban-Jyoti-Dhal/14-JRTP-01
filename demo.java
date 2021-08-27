@@ -1,1 +1,1 @@
-/lucky feature
+/lucky dev
